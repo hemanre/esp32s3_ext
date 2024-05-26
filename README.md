@@ -2,6 +2,9 @@
 
 This repository contains the design files for a custom extension board **ESP32S3-DevKit-Lipo** from Olimex, created using KiCad.
 
+| Supported Target  | ESP32S3-Devkit |
+| ----------------- | -------------- |
+
 ## Version
 
 KiCAD v8.0
